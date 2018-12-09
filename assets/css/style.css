@@ -1,0 +1,27 @@
+body {
+  background-color: #f4f4f4;
+}
+
+form {
+  float: right;
+  margin: 3px;
+}
+
+
+#futbolInput {
+  font-size: 24px;
+}
+
+img {
+  height: 150px;
+  max-width: 240px;
+}
+
+.btn-primary {
+  margin: 3px;
+}
+
+.btn-danger {
+  background-color: #337ab7;
+  border-color: #337ab7;
+}
