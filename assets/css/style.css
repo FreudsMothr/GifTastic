@@ -9,7 +9,7 @@ form {
 
 
 #futbolInput {
-  font-size: 24px;
+  font-size: 14px;
 }
 
 img {
@@ -21,7 +21,8 @@ img {
   margin: 3px;
 }
 
-.btn-danger {
+button {
   background-color: #337ab7;
   border-color: #337ab7;
+  color: #f4f4f4;
 }
